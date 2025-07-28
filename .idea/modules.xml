@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/DayPlanner.iml" filepath="$PROJECT_DIR$/.idea/DayPlanner.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/DayPlanner.iml" filepath="$PROJECT_DIR$/DayPlanner.iml" />
+>>>>>>> eb81d10 (Initial commit)
     </modules>
   </component>
 </project>
