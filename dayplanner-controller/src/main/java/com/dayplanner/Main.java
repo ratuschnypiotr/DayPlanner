@@ -1,0 +1,22 @@
+package com.dayplanner;
+
+import javafx.application.Application;
+import javafx.scene.Scene;
+import javafx.scene.control.Label;
+import javafx.stage.Stage;
+
+
+public class Main extends Application {
+
+    public void start(Stage primaryStage) {
+        Label label = new Label("JavaFX działa!");
+        Scene scene = new Scene(label, 300, 200);
+        primaryStage.setScene(scene);
+        primaryStage.setTitle("Test JavaFX");
+        primaryStage.show();
+    }
+
+    public static void main(String[] args) {
+        launch(args);
+    }
+}
