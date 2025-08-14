@@ -1,0 +1,20 @@
+.root {
+    -fx-background-color: #303030;
+}
+
+#addTask {
+    -fx-background-color: #707070;
+    -fx-font-size: 15px;
+    -fx-font-style: bold;
+}
+
+#addTask:hover {
+    -fx-background-color: #505050;
+
+}
+
+#clock {
+    -fx-background-color: #707070;
+    -fx-alignment: center;
+    -fx-text-fill: #fefefe;
+}

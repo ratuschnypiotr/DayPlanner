@@ -1,4 +1,4 @@
-package com.dayplanner.model;
+package com.dayplanner;
 
 /**
  * This class will represent a task in our DayPlanner.

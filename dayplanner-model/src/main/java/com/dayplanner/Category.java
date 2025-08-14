@@ -1,4 +1,4 @@
-package com.dayplanner.model;
+package com.dayplanner;
 
 import java.util.List;
 

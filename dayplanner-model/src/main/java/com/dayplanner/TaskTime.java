@@ -1,4 +1,4 @@
-package com.dayplanner.model;
+package com.dayplanner;
 
 public class TaskTime {
     private static final String TIME_FORMAT = "%02d:%02d";

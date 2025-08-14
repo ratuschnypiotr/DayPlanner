@@ -19,6 +19,10 @@ public class Main extends Application {
     public void start(Stage stage) throws Exception {
         Parent root = FXMLLoader.load(Objects.requireNonNull(getClass().getResource("/view/main-scene.fxml")));
         Scene scene = new Scene(root, 800, 600);
+        scene.getStylesheets().add(getClass().getResource("/view/main-scene.css").toExternalForm());
+
+
+
         stage.setScene(scene);
         stage.show();
     }
